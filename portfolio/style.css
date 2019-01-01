@@ -1,0 +1,177 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: red;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    float: left;
+}
+
+.logo{
+    width:150px;
+    font-size: 30px;
+    font-weight: 40px;
+    text-transform: uppercase;
+    color: rgb(102, 101, 101);
+    padding-top: 25px;
+    padding-left: 20px;
+    float: left;
+}
+
+.about{
+    float: right;
+    margin-right: 12px;
+    padding-top: 35px;
+}
+
+.about a{
+    text-decoration: none;
+    color: rgb(102, 101, 101);
+    display: inline-block;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+
+.header2{
+    height: 80vh;
+    background-image:linear-gradient(to right, rgba(77, 73, 73, 0.801), rgba(149, 153, 151, 0.801) ), url(https://bit.ly/2Hj7rfo);
+    background-size: cover;
+    background-position: top;
+
+}
+
+
+.header-primary{
+    color: white;
+    text-transform: uppercase;
+}
+
+.header-primary-main{
+    display: block;
+    font-size: 30px;
+    font-weight: 200px;
+    letter-spacing: 20px;
+    padding-top: 200px;
+    padding-left: 400px;
+    position: absolute;
+}
+
+.header-primary-sub{
+    position: absolute;
+    display: block;
+    font-size: 10px;
+    font-weight: 200px;
+    letter-spacing: 10px;
+    text-align:center;
+    padding-top: 250px;
+    padding-left: 235px;
+}
+
+
+.btn{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 100px;
+    color: rgb(102, 101, 101);
+    background-color: white;
+}
+
+.Portfolio{
+    width: 100%;
+    height: 200px;
+    background-color:white;
+    float: left;
+}
+
+.portfolio_main{
+    display: block;
+    font-size: 30px;
+    font-weight: 200px;
+    letter-spacing: 20px;
+    padding-left: 490px;
+    padding-top: 50px;
+    position: absolute;
+    color: rgb(102, 101, 101);
+}
+
+.portfolio_sub{
+    text-transform: uppercase;
+    position: absolute;
+    display: block;
+    font-size: 10px;
+    font-weight: 200px;
+    letter-spacing: 10px;
+    padding-left: 350px;
+    padding-top: 100px;
+    color: rgb(102, 101, 101);
+}
+
+.btn-green{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline;
+    color: rgb(102, 101, 101);
+    background-color:rgb(90, 177, 90);
+    margin-left: 340px;
+}
+
+.btn-yellow{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline;
+    color: rgb(102, 101, 101);
+    background-color:rgb(90, 177, 90);
+    margin-left: 30px;
+}
+
+.btn-red{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline;
+    color: rgb(102, 101, 101);
+    background-color:rgb(90, 177, 90);
+    margin-left: 30px;
+}
+
+.btn-black{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline;
+    color: rgb(102, 101, 101);
+    background-color:rgb(90, 177, 90);
+    margin-left: 30px;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(59, 192, 59);
+}
+
+.about-us{
+    font-size: 40px;
+    font-weight: 200px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
